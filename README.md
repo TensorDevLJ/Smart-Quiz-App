@@ -318,12 +318,17 @@ This project is open source and available under the MIT License.
 
 ## 📸 Application Screenshots
 
-![Quiz Login Screen](WhatsApp_Image_2025-08-09_at_21.10.54_e42a2209.jpg)
+![Quiz Login Screen](![WhatsApp Image 2025-08-09 at 21 10 54_da3e440d](https://github.com/user-attachments/assets/9112824f-4baf-4fa1-8f8e-998108651363)
+)
 ![Admin Panel](WhatsApp_Image_2025-08-09_at_21.11.18_677a837b.jpg)
-![Add Question](WhatsApp_Image_2025-08-09_at_21.12.06_be9d7c26.jpg)
-![User Quiz Taking](WhatsApp_Image_2025-08-09_at_21.12.30_27b4a040.jpg)
-![Score Display](WhatsApp_Image_2025-08-09_at_21.13.38_10baa622.jpg)
-![Leaderboard](WhatsApp_Image_2025-08-09_at_21.13.54_8dfaae4d.jpg)
+![Add Question]![WhatsApp Image 2025-08-09 at 21 11 18_51619a9d](https://github.com/user-attachments/assets/c48fa888-7332-4c04-b3a6-97ac6f4755af)
+
+![User Quiz Taking]![WhatsApp Image 2025-08-09 at 21 11 18_538c4179](https://github.com/user-attachments/assets/ad4bda3c-927b-4a70-a6a0-70fa9d6cc0b9)
+
+![Score Display]![WhatsApp Image 2025-08-09 at 21 13 38_d4b20084](https://github.com/user-attachments/assets/73efefc1-96c3-4a6b-a955-e0e773b26337)
+
+![Leaderboard]![WhatsApp Image 2025-08-09 at 21 13 54_4031528b](https://github.com/user-attachments/assets/020dcfc4-b859-4eda-9e8f-0e5fe9ee4961)
+
 
 
 ---
