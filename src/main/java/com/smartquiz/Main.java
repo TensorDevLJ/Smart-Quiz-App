@@ -1,5 +1,6 @@
 package com.smartquiz;
 
+<<<<<<< HEAD
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -85,3 +86,48 @@ public class Main extends JFrame {
         });
     }
 }
+=======
+import com.smartquiz.database.DatabaseManager;
+import com.smartquiz.ui.LoginFrame;
+
+import javax.swing.*;
+
+/**
+ * Main class for SmartQuiz Application
+ * Entry point that initializes the database and launches the login interface
+ */
+public class Main {
+    public static void main(String[] args) {
+        try {
+            // Set Look and Feel to system default for better appearance
+           UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
+
+        } catch (Exception e) {
+            System.err.println("Could not set system look and feel: " + e.getMessage());
+        }
+
+        // Initialize database on startup
+        try {
+            DatabaseManager.getInstance().initializeDatabase();
+            System.out.println("Database initialized successfully!");
+        } catch (Exception e) {
+            System.err.println("Failed to initialize database: " + e.getMessage());
+            JOptionPane.showMessageDialog(null, 
+                "Failed to initialize database. Application will exit.", 
+                "Database Error", 
+                JOptionPane.ERROR_MESSAGE);
+            System.exit(1);
+        }
+
+        // Launch the application on EDT
+        SwingUtilities.invokeLater(() -> {
+            try {
+                new LoginFrame().setVisible(true);
+            } catch (Exception e) {
+                System.err.println("Failed to launch application: " + e.getMessage());
+                e.printStackTrace();
+            }
+        });
+    }
+}
+>>>>>>> d9fed86 (Your commit message)
