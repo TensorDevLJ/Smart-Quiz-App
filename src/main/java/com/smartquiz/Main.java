@@ -1,6 +1,6 @@
 package com.smartquiz;
 
-<<<<<<< HEAD
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -130,4 +130,4 @@ public class Main {
         });
     }
 }
->>>>>>> d9fed86 (Your commit message)
+
