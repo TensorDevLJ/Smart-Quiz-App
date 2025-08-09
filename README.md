@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # 🎯 SmartQuiz - Java Swing + SQLite (Maven)
 
@@ -82,7 +82,7 @@ java -version
 mvn -version
 ```
 
-<<<<<<< HEAD
+
 ---
 
 ### 2️⃣ Download & Extract
@@ -315,7 +315,12 @@ This project is open source and available under the MIT License.
 4. Test thoroughly
 5. Submit a pull request
 
+
+## outputs
+![alt text](<WhatsApp Image 2025-08-09 at 21.10.54_e42a2209.jpg>) ![alt text](<WhatsApp Image 2025-08-09 at 21.11.18_677a837b.jpg>) ![alt text](<WhatsApp Image 2025-08-09 at 21.12.06_be9d7c26.jpg>) ![alt text](<WhatsApp Image 2025-08-09 at 21.12.30_27b4a040.jpg>) ![alt text](<WhatsApp Image 2025-08-09 at 21.13.38_10baa622.jpg>) ![alt text](<WhatsApp Image 2025-08-09 at 21.13.54_8dfaae4d.jpg>)
+
 ---
+
 
 **Happy Quizzing!** 🎯
 
